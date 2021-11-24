@@ -1,4 +1,4 @@
-import "tfplan-functions" as plan
+import "tfplan"
 # Allowed EC2 Instance Types
 
 allowed_types = ["t2.small", "t2.medium", "t2.large"]
